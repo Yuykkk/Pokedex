@@ -97,12 +97,13 @@
 <h2 align="center">Preview</h2>
 
 <p align="center">
-  <img src="./referencias/Captura%20de%20tela%202026-04-08%20112137.png" width="420" alt="Preview da Pokédex" />
-  <img src="./referencias/Captura%20de%20tela%202026-04-08%20112205.png" width="420" alt="Preview das informações do Pokémon" />
+  <img src="./recursos/preview/preview-home.png" width="420" alt="Preview da tela inicial da Pokédex" />
+  <img src="./recursos/preview/preview-pokemon.png" width="420" alt="Preview das informações de um Pokémon" />
 </p>
 
 <p align="center">
-  <img src="./referencias/Captura%20de%20tela%202026-04-08%20112720.png" width="420" alt="Preview das cartas TCG" />
+  <img src="./recursos/preview/preview-tcg.png" width="420" alt="Preview das cartas TCG de um Pokémon" />
+  <img src="./recursos/preview/preview-pack.png" width="420" alt="Preview de pacotes TCG" />
 </p>
 
 ---
