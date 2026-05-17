@@ -1,8 +1,14 @@
 <div align="center">
 
-  <img src="./recursos/images/Pokemon-Logo.png" width="420" alt="Logo Pokémon" />
+  <img src="./recursos/images/pokedex-banner.svg" width="620" alt="Banner Pokédex" />
 
   <br>
+
+  <p>
+    <a href="https://yuykkk.github.io/Pokedex/">
+      <img src="https://img.shields.io/badge/ABRIR%20SITE%20ONLINE-ffcb05?style=for-the-badge&logo=githubpages&logoColor=2a3f9d" alt="Abrir site online" />
+    </a>
+  </p>
 
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="72" alt="Pikachu" />
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" width="72" alt="Bulbasaur" />
@@ -22,12 +28,6 @@
     <img src="https://img.shields.io/badge/JAVASCRIPT-d62828?style=for-the-badge&logo=javascript&logoColor=ffcb05" alt="JavaScript" />
     <img src="https://img.shields.io/badge/PokeAPI-ffffff?style=for-the-badge&logo=pokemon&logoColor=d62828" alt="PokeAPI" />
     <img src="https://img.shields.io/badge/TCGdex-111111?style=for-the-badge&logo=cardano&logoColor=ffcb05" alt="TCGdex" />
-  </p>
-
-  <p>
-    <a href="https://yuykkk.github.io/Pokedex/">
-      <img src="https://img.shields.io/badge/TESTAR%20PROJETO-ffcb05?style=for-the-badge&logo=githubpages&logoColor=2a3f9d" alt="Testar projeto online" />
-    </a>
   </p>
 
 </div>
