@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./recursos/images/Pokemon-Logo.png" width="420" alt="Logo Pokédex" />
+  <img src="./recursos/images/Pokedex-Logo.png" width="420" alt="Logo Pokédex" />
 
   <br>
 
