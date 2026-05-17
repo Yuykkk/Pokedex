@@ -24,6 +24,12 @@
     <img src="https://img.shields.io/badge/TCGdex-111111?style=for-the-badge&logo=cardano&logoColor=ffcb05" alt="TCGdex" />
   </p>
 
+  <p>
+    <a href="https://yuykkk.github.io/Pokedex/">
+      <img src="https://img.shields.io/badge/TESTAR%20PROJETO-ffcb05?style=for-the-badge&logo=githubpages&logoColor=2a3f9d" alt="Testar projeto online" />
+    </a>
+  </p>
+
 </div>
 
 ---
@@ -102,6 +108,12 @@
 ---
 
 <h2 align="center">Como Rodar</h2>
+
+<p align="center">
+  <a href="https://yuykkk.github.io/Pokedex/">
+    <img src="https://img.shields.io/badge/ABRIR%20SITE%20ONLINE-2a3f9d?style=for-the-badge&logo=githubpages&logoColor=ffcb05" alt="Abrir site online" />
+  </a>
+</p>
 
 ```bash
 git clone https://github.com/Yuykkk/Pokedex.git
