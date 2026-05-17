@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/JAVASCRIPT-d62828?style=for-the-badge&logo=javascript&logoColor=ffcb05" alt="JavaScript" />
     <img src="https://img.shields.io/badge/PokeAPI-ffffff?style=for-the-badge&logo=pokemon&logoColor=d62828" alt="PokeAPI" />
     <img src="https://img.shields.io/badge/TCGdex-111111?style=for-the-badge&logo=cardano&logoColor=ffcb05" alt="TCGdex" />
+    <img src="https://img.shields.io/badge/LICENCA-MIT-ffcb05?style=for-the-badge&logo=opensourceinitiative&logoColor=2a3f9d" alt="Licença MIT" />
   </p>
 
 </div>
@@ -160,16 +161,31 @@ http://localhost:8000
 
 ```text
 Pokedex/
-├─ index.html
-├─ styles.css
-├─ tcg_set_base1.json
-├─ recursos/
-│  └─ images/
-│     ├─ Pokemon-Logo.png
-│     └─ pokedex.png
-└─ referencias/
-   └─ capturas de tela do projeto
+|-- index.html
+|-- styles.css
+|-- tcg_set_base1.json
+|-- LICENSE
+|-- .github/
+|   `-- workflows/
+|-- recursos/
+|   |-- images/
+|   |   |-- Pokedex-Logo.png
+|   |   |-- Pokemon-Logo.png
+|   |   `-- pokedex.png
+|   `-- preview/
+|       |-- preview-home.png
+|       |-- preview-pokemon.png
+|       |-- preview-tcg.png
+|       `-- preview-pack.png
 ```
+
+---
+
+<h2 align="center">Licença</h2>
+
+Este projeto está sob a licença MIT. Veja o arquivo <a href="./LICENSE">LICENSE</a> para mais detalhes.
+
+Pokémon, Pokédex e imagens relacionadas pertencem aos seus respectivos donos. Este projeto é apenas para estudo.
 
 ---
 
